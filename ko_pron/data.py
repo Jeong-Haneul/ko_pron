@@ -30,7 +30,7 @@ boundary = {
     # For finals, Ø = the absence of a jongseong jamo, but the previous syllable exists.
     # The equivalent of initial Ø is final "" (nothing).
     "Ø-Ø": ["", "", "", "", "", ""],
-    "-Ø": ["" "", "", "", "", ""],
+    "-Ø": ["", "", "", "", "", ""],
     "-ᄀ": ["ᄀ", "g", "g", "k", "k", "k"],
     "-ᄁ": ["ᄁ", "kk", "kk", "kk", "kk", "k͈"],
     "-ᄂ": ["ᄂ", "n", "n", "n", "n", "n"],
