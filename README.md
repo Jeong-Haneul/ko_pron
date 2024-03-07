@@ -1,4 +1,5 @@
 ## Information
+IPA err fix ver
 Hangul pronunciation and romanisation module.
 
 This is actally rewritten to python Wiktionary lua module  [ko-pron](https://en.wiktionary.org/wiki/Module:ko-pron)
